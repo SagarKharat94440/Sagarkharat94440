@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Sagar Kharat
 
-<!--
-**SagarKharat94440/Sagarkharat94440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Final Year CS Student
+- 💻 Full Stack Developer (MERN)
+- 🌱 Currently learning Java Backend and REST APIs
+- ⚡ Fun Fact: I love building personal projects!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js, MongoDB, Java, MySQL
+- Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarkharat94440&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+- [Portfolio](https://sagarkharat94440.github.io/Portfolio/)
+- Email: sagarakharat2003@gmail.com
