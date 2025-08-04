@@ -30,9 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkharat94440&layout=compact)
 
 
-## 📈 GitHub Stats
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarkharat94440&show_icons=true&theme=radical)
-
 ## 📫 Connect With Me
 - [Portfolio](https://sagarkharat94440.github.io/Portfolio/)
 - Email: sagarakharat2003@gmail.com
