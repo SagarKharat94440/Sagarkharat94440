@@ -4,7 +4,7 @@
 - 🎓 Final Year CS Student
 - 💻 Full Stack Developer (MERN)
 - 🌱 Currently learning Java Backend and REST APIs
-- ⚡ Fun Fact: I love building personal projects!
+
 
 ## 🛠️ Skills
 
