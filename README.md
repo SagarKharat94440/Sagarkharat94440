@@ -31,5 +31,5 @@
 
 
 ## 📫 Connect With Me
-- [Portfolio](https://sagarkharat94440.github.io/Portfolio/)
+- [Portfolio](https://sagarkharat.tech)
 - Email: sagarakharat2003@gmail.com
