@@ -36,7 +36,7 @@
 Name      : Sagar Kharat
 Location  : Pune, Maharashtra, India
 Education : B.E. Computer Engineering — Sinhgad Institute of Technology (2022–2026)
-CGPA      : 8.52 / 10
+CGPA      : 8.66 / 10
 Role      : Full Stack Developer (MERN) | AI Integration | Cloud Deployment
 Status    : Open to Work — Internships & Full-Time Opportunities
 Contact   : sagarakharat2003@gmail.com
